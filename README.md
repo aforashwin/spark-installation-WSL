@@ -881,12 +881,12 @@ spark.history.fs.logDirectory file:///home/your_username/SparkHistLogs
 
 **Important:** Replace `your_username` with your actual Linux username.
 
-For example, if your Linux username is `ashwin_balaji`, use:
+For example, if your Linux username is `aforashwin`, use:
 
 ```properties
 spark.eventLog.enabled true
-spark.eventLog.dir file:///home/ashwin_balaji/SparkHistLogs
-spark.history.fs.logDirectory file:///home/ashwin_balaji/SparkHistLogs
+spark.eventLog.dir file:///home/aforashwin/SparkHistLogs
+spark.history.fs.logDirectory file:///home/aforashwin/SparkHistLogs
 ```
 
 Do not add duplicate versions of these properties if they already exist. Update the existing values instead.
@@ -1639,7 +1639,7 @@ You can now start learning:
 
 ---
 
-**Author:** Your Name
+**Author:** aforashwin
 
 **Purpose:** Beginner-friendly Apache Spark and PySpark installation tutorial.
 
