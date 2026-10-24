@@ -1645,3 +1645,21 @@ You can now start learning:
 
 **Environment:** Windows + WSL Ubuntu + VS Code
 
+
+---
+
+## 🤝 Connect With Me
+
+If you find this guide helpful, feel free to connect with me on LinkedIn!
+
+🔗 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/aforashwin/)
+
+📧 **Email:** [sample101918@gmail.com](mailto:sample101918@gmail.com)
+
+If you encounter any issues during installation or have suggestions to improve this guide, feel free to reach out. I'll be happy to help! 😊
+
+---
+
+
+
+
