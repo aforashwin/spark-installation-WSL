@@ -1,6 +1,25 @@
 # spark-installation-WSL
 This is a complete, tested method for installing Apache Spark on Windows using WSL (Ubuntu). It has been tested and works successfully! ✅  Simply follow the `README.md` file step by step and **copy and paste the commands provided**. That's all you need to do! 🚀
 
+## My Experience
+
+I personally installed and tested this setup on my own laptop, which has **8 GB of RAM and a 512 GB SSD**, and it works well!
+
+Before finding this method, I watched many YouTube tutorials and spent a lot of time trying different approaches. Unfortunately, I wasted time and valuable disk space on methods that didn't work as expected. It took me several days to understand the installation process and figure out the right steps.
+
+Finally, I successfully installed Apache Spark and PySpark on my Windows laptop using WSL2 (Ubuntu). I created this guide to help others avoid the same difficulties and save time.
+
+**You can try this method on your own laptop!** Just follow the steps in the `README.md` file in the given order and copy and paste the commands carefully.
+
+### Need Help?
+
+If you face any problems during installation or have suggestions to improve this guide, feel free to contact me:
+
+📧 **Email:** [sample101918@gmail.com](mailto:sample101918@gmail.com)
+
+I'll be happy to help you as much as I can. I hope this guide saves you time and makes your Spark installation journey easier!
+
+
 # Apache Spark and PySpark Installation Guide for Beginners
 
 ### A Complete Step-by-Step Guide for Windows 10/11
