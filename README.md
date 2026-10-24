@@ -49,7 +49,7 @@ By following this guide, you will learn how to:
 |  |                VS CODE                   |  |
 |  |                                          |  |
 |  |  +------------------------------------+  |  |
-|  |  |           WSL 2 - UBUNTU            |  |  |
+|  |  |           WSL 2 - UBUNTU           |  |  |
 |  |  |                                    |  |  |
 |  |  |  Python                            |  |  |
 |  |  |    |                               |  |  |
